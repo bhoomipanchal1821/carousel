@@ -1,0 +1,30 @@
+h1.mt-5.heading {
+    font-family: 'Poppins', sans-serif;
+}
+.col-8.vector {
+    margin-left: 47rem;
+}
+
+.carousel-section-reverse {
+    background-color: #F1F1F1;
+    height: 40rem;
+    z-index: -22;
+    position: absolute;
+    top: 100rem;
+    width: 100%;
+}
+.container.firstcarousel-section-reverse {
+    position: absolute;
+    top: 100rem;
+    left: 71rem;
+}
+.col-8.vector_second.position-absolute {
+    bottom: 95rem;
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .fs-5.mt-5.info.fw-light {
+        width: 23rem;
+    }
+}

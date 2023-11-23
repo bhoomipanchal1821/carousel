@@ -1,0 +1,7 @@
+.container-fluid.footer {
+    background: #5c677d;
+    height: 5rem;
+}
+.container-fluid.footer.d-flex.justify-content-center.flex-column.align-items-center.mt-5 {
+    position: absolute;
+}

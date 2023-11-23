@@ -1,0 +1,8 @@
+.main-section {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(45deg, #34a0a4 0.7%, transparent);
+}
+h1.mt-5.display-1.fw-bold.text-center.text-white {
+  font-family: "Poppins";
+}

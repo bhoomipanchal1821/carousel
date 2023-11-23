@@ -1,0 +1,26 @@
+.main.mx-auto {
+  width: 83% !important;
+  transition: all 0.3s;
+  position: absolute;
+  top: 67rem;
+  overflow: hidden !important;
+
+}
+i.fa-solid.fa-chevron-right {
+    position: absolute;
+    z-index: 1;
+    margin-left: 1.5rem;
+    top: 79rem;
+}
+i.fa-solid.fa-chevron-left {
+    top: 79rem;
+    right:9rem;
+    position: absolute;
+}
+img.mb-5 {
+    position: absolute;
+    width: 45%;
+    z-index: -2;
+    top: 61rem;
+    left: 62rem;
+}
